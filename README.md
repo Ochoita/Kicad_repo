@@ -1,2 +1,2 @@
 # Kicad_repo
-Mis proyectos de Kicad V7, perdón, ahora seran V8 JAAAAAAAA
+Mis proyectos de Kicad V7, perdón, ahora seran V8 espero pipipi
