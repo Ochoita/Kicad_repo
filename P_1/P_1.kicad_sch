@@ -2145,6 +2145,75 @@
 			)
 		)
 	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 184.15 53.34 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e604ae70-d780-4903-ac4e-188dff0cd49b")
+		(property "Reference" "D5"
+			(at 186.69 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "1.6v"
+			(at 186.69 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Transistor_Power:GaN_Systems_GaNPX-3_5x6.6mm_Drain3.76x0.6mm"
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 184.15 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "941bd528-996b-49a6-bc0d-740739cc2894")
+		)
+		(pin "1"
+			(uuid "5612d7db-83e2-4ade-8e00-867374995376")
+		)
+		(instances
+			(project "P_1"
+				(path "/87f75057-1bd3-4400-84e5-4864f72e22bf"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet
 		(at 26.67 52.07)
 		(size 22.86 13.97)
